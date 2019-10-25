@@ -1,4 +1,3 @@
-//Did with Vanila script, but in the job mainly I work with jQuery it takes about 80% of time
 "use strict";
 function ValidateForm(){
 

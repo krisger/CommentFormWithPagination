@@ -45,7 +45,7 @@ INSERT INTO `messages` (`ID`, `UserName`, `SurName`, `Email`, `Message`, `Birthd
 (127, 'Naujas', ' Ä®raÅ¡as', 'info@gmail.com', 'adasdas', '1993-06-20', '2018-02-07 21:30:03'),
 (117, 'Something', ' Else', 'info@gmail.com', 'sadsads', '1992-05-20', '2018-02-07 19:24:06'),
 (89, 'As', ' Bilas', 'asbilas@gmail.com', 'Hahaha', '1990-08-10', '2018-02-05 17:35:13'),
-(92, 'Bill', ' Test', 'bilgates@ha.com', 'Hello There!', '1960-02-22', '2018-02-05 17:38:01'),
+(92, 'Bill', ' Test', 'bigadeees@ha.com', 'Hello There!', '1960-02-22', '2018-02-05 17:38:01'),
 (129, 'Name', ' LastName', 'anicetap@gmail.com', 'asdasdsa', '1992-05-20', '2018-02-07 21:49:05'),
 (125, 'test', ' name', 'info@gmail.com', 'asdsad', '1992-05-20', '2018-02-07 21:24:41'),
 (126, 'John', ' Qwerty', 'asdsssa@gmail.com', 'asdasd', '1992-05-20', '2018-02-07 21:29:35'),
